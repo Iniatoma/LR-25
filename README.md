@@ -8,6 +8,6 @@
 Рисунок 25.2 - Спрайты проекта
 ![bice3](https://user-images.githubusercontent.com/119736937/205518643-a8e3ac33-333c-415c-8100-9c1644ae1fd0.PNG)  
 Рисунок 25.3 - Иерархия игровых объектов  
-![Снимок214](https://user-images.githubusercontent.com/119736937/205518664-ecc3c0ed-c408-4c81-ac0b-eabac7687c6e.PNG) 
+![Снимок214](https://user-images.githubusercontent.com/119736937/205518664-ecc3c0ed-c408-4c81-ac0b-eabac7687c6e.PNG)  
 Рисунок 25.4 - Начальный экран  
 
