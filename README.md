@@ -1,5 +1,4 @@
 # PR-25
-Выполнил: Янкевич ДВ Группа: ЭВТ-71  
 Игровой движок: Unity 2021.3.13f1  
 Название работы: разработка игры Bounce    
 ![bice1](https://user-images.githubusercontent.com/119736937/205518594-8c2d2a40-ff2f-497f-a793-97e75bbee176.png)  
